@@ -1,6 +1,6 @@
 # EDGE-DETECTION
-### Name - Jai Surya R
-### Register Number - 212223230084
+### Name - Sanjit P
+### Register Number - 212223230190
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
